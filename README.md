@@ -3,6 +3,11 @@
 
 ### Project Description - In this project we take multiple text files and redact sensitive information such as names, phone numbers, gender, dates and addresses from it and save the redacted data into a new file with .redacted extension. The process of redaction is often expensive and can be used widely for police reports, emails and many more. In this project we have taken sample files of emails and redacted sensitive information from it.
 
+
+
+https://user-images.githubusercontent.com/124108020/229971135-3a71afc6-b2a7-47a3-86d7-41785f1cd59e.mov
+
+
 ### Requirements
 Python version - 3.10
 
