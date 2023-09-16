@@ -1,4 +1,4 @@
-# cs5293sp23-project1
+# Privacipher-Text Redaction Wizard
 ### Name - Suma Sri Chowdary Atheti
 
 ### Project Description - In this project we take multiple text files and redact sensitive information such as names, phone numbers, gender, dates and addresses from it and save the redacted data into a new file with .redacted extension. The process of redaction is often expensive and can be used widely for police reports, emails and many more. In this project we have taken sample files of emails and redacted sensitive information from it.
